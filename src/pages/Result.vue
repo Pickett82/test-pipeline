@@ -2,7 +2,7 @@
   <v-container id="container-results">
     <v-row v-for="resource in filteredList " :key="resource.name">
       <v-col>
-          <v-card class="mx-auto" max-width="345">
+          <v-card class="mx-auto" max-width="344">
             <v-card-text>
               <p class="display-1 text--primary"> {{ resource.name }}</p>
               <div class="text--primary"> 
