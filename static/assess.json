@@ -1,0 +1,24 @@
+{
+    "pages": [
+        {
+            "title": "example page",
+            "questions": [
+                {
+                    "fieldType": "single-choice-input",
+                    "name": "example-question",
+                    "label": "example question",
+                    "options": [
+                        {
+                            "value":"Yes",
+                            "tags":["yes"]
+                        },
+                        {
+                            "value":"No",
+                            "tags":["no"]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "resources": [
+        {
+            "name": "example 1",
+            "content": "information about example 1 that is not html",
+            "tags": ["yes"]
+        },
+        {
+            "name": "example 2",
+            "content": "<p>information about example 2 that is html</p>",
+            "tags": ["no"]
+        }
+    ]
+}
